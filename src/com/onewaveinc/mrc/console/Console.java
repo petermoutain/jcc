@@ -23,6 +23,7 @@ import com.onewaveinc.mrc.ModuleContext;
 public class Console implements ConsoleMBean {
     
     private static class ConsoleSession extends Thread {
+	//todo compile
         
         private Socket socket;
         
