@@ -47,9 +47,6 @@
 				</executions>
 			</plugin>
 
-					</execution>
-				</executions>
-			</plugin>
 
 			<plugin>
 				<groupId>org.jacoco</groupId>
