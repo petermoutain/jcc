@@ -45,6 +45,7 @@
 					</execution>
 				</executions>
 			</plugin>
+
 			<plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
@@ -53,7 +54,7 @@
 					<execution>
 						<id>pre-unit-test</id>
 						<goals>
-							<goal>prepare-agent</agent>
+							<goal>prepare-agent</goal>
 						</goals>
 					</execution>
 					<execution>
