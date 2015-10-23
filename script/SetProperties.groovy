@@ -2,6 +2,7 @@
 //project.properties.public_key = new URL("http://192.168.12.180:8080/lic/servlet?type=publickey").text
 //project.properties.expired_time = new URL("http://192.168.12.180:8080/lic/servlet?type=expiredate").text
 //test auto compile
+//test auto compile2
 
 def proc
 
